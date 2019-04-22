@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582497398098",
+    "firebase_url": "https://smart-home-2330c.firebaseio.com",
+    "project_id": "smart-home-2330c",
+    "storage_bucket": "smart-home-2330c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582497398098:android:e301b446dd8eaffd",
+        "android_client_info": {
+          "package_name": "com.anurag.speechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582497398098-76rvri70bcuj0c59n5vcitvs41vnjapk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anurag.speechtotext",
+            "certificate_hash": "ae0867d16b1b2afadfdfcfbdc58b813ed8c82287"
+          }
+        },
+        {
+          "client_id": "582497398098-k6ubsefu33v4c3eebp2hb6b80bscio1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LaPQpgf_cZGVmGYgkd8vMJWjvKroLvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582497398098-k6ubsefu33v4c3eebp2hb6b80bscio1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
